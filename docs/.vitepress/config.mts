@@ -39,6 +39,7 @@ export default defineConfig({
         items: [
           { text: '📥 Downloading', link: '/downloading' },
           { text: '🗄️ Hoarding & Archiving', link: '/archiving' },
+          { text: '🧰 File & Media Utilities', link: '/media-utilities' },
           { text: '⚙️ Automation', link: '/automation' }
         ]
       },
