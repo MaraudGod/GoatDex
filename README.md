@@ -1,41 +1,56 @@
 # 🐐 GoatDex
 
-A curated list of tools, sites, and resources for adult content collectors.
+**The Adult Internet, Indexed.**
 
----
+GoatDex is a curated, searchable directory of adult-content websites, tools, video resources, image resources, communities, and practical guides.
 
-## 👀 Privacy
+The project is inspired by the fast, Markdown-first structure of FMHY while using a GoatDex-specific hierarchy built around **GOAT picks**, discovery, tools, and media workflows.
 
-- [Image Hosts](#image-hosts)
-- [Tools](#tools)
-- [Forums](#forums)
+## Core sections
 
----
+- 🐐 GOATs
+- 🎬 Video
+- 🖼️ Images
+- 🛠️ Tools
+- 🌐 Websites
+- 🔎 Search & Discovery
+- 💬 Communities
+- 📥 Downloading
+- 🔒 Privacy & Safety
+- 📚 Guides
 
-## 🛠️ Tools
-- **Imgsrc** — https://imgsrc.ru  
-- **EroMe** — https://erome.com  
+## Development
 
----
+```bash
+npm install
+npm run docs:dev
+```
 
-## 💬 Forums
-- **JDownloader 2** — https://jdownloader.org  
-- **HandBrake** — https://handbrake.fr  
+Production build:
 
----
+```bash
+npm run docs:build
+```
 
-## 🔎 Searching
-- **Example Forum** — https://example.com
-# GoatDex
+## Content format
 
----
+Keep entries concise and consistent:
 
-## 🛠 Forums
-- **JDownloader 2** — https://jdownloader.org  
-- **HandBrake** — https://handbrake.fr  
+```md
+- 🐐 **[Name](https://example.com)** — Why it is useful. `Web` `Free` `Mobile`
+```
 
----
+### Legend
 
-## 💬 Forums
-- **Example Forum** — https://example.com
-# GoatDex
+- 🐐 GOAT — top pick / best overall
+- ⭐ Recommended — especially useful or reliable
+- 🆓 Free — usable without payment
+- 💰 Paid — paid account or premium features
+- 📱 Mobile — particularly useful on mobile
+- 🖥️ Desktop — desktop-focused
+- 🌐 Web — browser-based
+- ⚠️ Caution — read the accompanying note
+
+## Important
+
+GoatDex is a link index. It does not host third-party media.
