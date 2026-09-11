@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/GoatDex/',
   title: 'GoatDex',
   description: 'A curated index of adult-content websites, tools, video, images, communities, archiving resources, and guides.',
   cleanUrls: true,
@@ -64,7 +65,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/MaraudGod/GoatDex' }
     ],
     editLink: {
-      pattern: 'https://github.com/MaraudGod/GoatDex/edit/goatdex-v1-scaffold/docs/:path',
+      pattern: 'https://github.com/MaraudGod/GoatDex/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     outline: { level: [2, 3], label: 'On this page' },
