@@ -2,26 +2,42 @@
 
 > **The Adult Internet, Indexed.**
 
-GoatDex is a GitHub-first, community-friendly knowledge base for finding, collecting, organizing, and preserving adult media and the tools around it.
+GoatDex is a GitHub-first knowledge base for finding adult-content destinations and the tools used to search, download, organize, process, preserve, and manage media.
 
-**Start here:** choose a category below. Each category opens into focused subcategory pages so the repository itself works like a browsable index — no website required.
+**Start here:** choose a category below. The repository itself is the product — no website required.
 
 ## 🧭 Master Index
 
 | Section | What lives here |
 | --- | --- |
 | [🐐 GOATs](GOATS.md) | Best-of-the-best picks across GoatDex |
-| [🎬 Video](index/video/README.md) | Tube sites, streaming, video search, players, downloaders and archives |
-| [🖼️ Images](index/images/README.md) | Galleries, image hosts, image search, reverse search and downloaders |
-| [🌐 Websites](index/websites/README.md) | Major sites, specialty sites, creator platforms, indexes, archives and mirrors |
-| [💬 Communities](index/communities/README.md) | Forums, boards, chans, chat sites, Reddit and Telegram resources |
-| [🔎 Search & Discovery](index/search-discovery/README.md) | Search engines, reverse search, username/profile search and archive discovery |
-| [📥 Downloading](index/downloading/README.md) | Universal, video, gallery, browser and mobile download workflows |
-| [🗄️ Hoarding & Archiving](index/hoarding-archiving/README.md) | Storage, backup, deduplication, cataloging, integrity and preservation |
-| [🧰 File & Media Utilities](index/file-media-utilities/README.md) | Metadata, renaming, conversion, repair, compression, hashing and previews |
-| [⚙️ Automation](index/automation/README.md) | Apple Shortcuts, AppleScript, Safari extensions, userscripts and scripts |
+| [🔞 Adult Sites](index/adult-sites/README.md) | Tube/streaming, galleries, user-upload platforms, creator platforms, live/cam, communities, adult search/indexes, archives and mirrors |
+| [🧰 Media Tools](index/media-tools/README.md) | Video tools, image tools, downloading, search/discovery, organization, file utilities, browser tools and automation |
+| [🗄️ Hoarding & Archiving](index/hoarding-archiving/README.md) | Storage, backup, deduplication, cataloging, integrity, self-hosting, recovery and preservation |
 | [🔒 Privacy & Safety](index/privacy-safety/README.md) | Browsers, VPN/DNS, blocking, metadata privacy and account hygiene |
 | [📚 Guides](index/guides/README.md) | Starter pack and practical GoatDex workflows |
+
+## 🔞 Adult Sites at a glance
+
+- [🎬 Tube & Streaming Sites](index/adult-sites/Tube-Streaming.md)
+- [🖼️ Gallery & Image Sites](index/adult-sites/Galleries-Images.md)
+- [📤 User Upload Platforms](index/adult-sites/User-Upload-Platforms.md)
+- [👤 Creator Platforms](index/adult-sites/Creator-Platforms.md)
+- [🎥 Live & Cam Sites](index/adult-sites/Live-Cam.md)
+- [💬 Communities](index/communities/README.md)
+- [🔎 Adult Search & Indexes](index/adult-sites/Search-Indexes.md)
+- [🗄️ Archives & Mirrors](index/adult-sites/Archives-Mirrors.md)
+
+## 🧰 Media Tools at a glance
+
+- [🎬 Video Tools](index/media-tools/Video-Tools.md)
+- [🖼️ Image Tools](index/media-tools/Image-Tools.md)
+- [📥 Downloading](index/media-tools/Downloading.md)
+- [🔎 Media Search & Discovery](index/media-tools/Search-Discovery.md)
+- [🧹 Organize & Manage](index/media-tools/Organize-Manage.md)
+- [🔧 File Utilities](index/media-tools/File-Utilities.md)
+- [🌐 Browser Tools](index/media-tools/Browser-Tools.md)
+- [⚙️ Automation](index/media-tools/Automation.md)
 
 ## 🏷️ Legend
 
@@ -34,36 +50,37 @@ GoatDex is a GitHub-first, community-friendly knowledge base for finding, collec
 - 🌐 **Web** — browser-based
 - ⚠️ **Caution** — read the accompanying note
 
-## 📖 Wiki
+### Media / site tags
 
-The repository is the canonical GoatDex source. The GitHub Wiki can provide a second, reader-friendly navigation layer over the same taxonomy. GitHub wikis are themselves Git repositories and support Markdown pages, sidebars and normal revision history.
+`Video` · `Images` · `Mixed Media` · `User Uploads` · `Creator` · `Live` · `Community`
 
 ## ➕ Adding an entry
 
-Keep entries short and useful:
+Keep entries concise and useful:
 
 ```md
 - 🐐 **[Name](https://example.com)** — What it does and why it belongs here. `Web` `Free` `Mobile`
 ```
 
-Prefer useful descriptions over giant link dumps. GOAT status should mean something.
+For mixed-media sites, categorize by **what kind of platform it is** and use tags to show the media it supports instead of duplicating it everywhere.
+
+Example:
+
+```md
+- **[EroMe](https://www.erome.com)** — User-upload platform built around profiles and media albums. `Images` `Video` `Mixed Media` `User Uploads`
+```
 
 ## 🧱 Structure
 
 ```text
 GoatDex/
-├── README.md             ← master index
-├── GOATS.md              ← best-of-the-best
-├── index/                ← GitHub-native knowledge base
-│   ├── video/
-│   ├── images/
-│   ├── websites/
+├── README.md
+├── GOATS.md
+├── index/
+│   ├── adult-sites/
+│   ├── media-tools/
 │   ├── communities/
-│   ├── search-discovery/
-│   ├── downloading/
 │   ├── hoarding-archiving/
-│   ├── file-media-utilities/
-│   ├── automation/
 │   ├── privacy-safety/
 │   └── guides/
 └── docs/                 ← optional website renderer / legacy scaffold
