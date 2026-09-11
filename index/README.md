@@ -2,27 +2,34 @@
 
 [← GoatDex Home](../README.md)
 
-This directory is the canonical GitHub-native GoatDex index.
+This directory is the canonical GitHub-native GoatDex index. Its structure follows the same broad principle that makes FMHY easy to browse: a manageable number of purpose-based main pages, useful subsections, and ↪️ cross-links instead of unnecessary duplication.
 
 ## Main categories
 
-- [🐐 GOATs](../GOATS.md)
+- [📚 Beginners Guide](beginners-guide/README.md)
 - [🔞 Adult Sites](adult-sites/README.md)
-- [🧰 Media Tools](media-tools/README.md)
-- [🗄️ Hoarding & Archiving](hoarding-archiving/README.md)
-- [🔒 Privacy & Safety](privacy-safety/README.md)
-- [📚 Guides](guides/README.md)
+- [🔎 Search & Discovery](search-discovery/README.md)
+- [💾 Downloading](downloading/README.md)
+- [🔧 Tools](tools/README.md)
+- [📱 Mobile](mobile/README.md)
+- [💻 Desktop](desktop/README.md)
+- [💬 Communities](communities/README.md)
+- [🗃️ Media Management](media-management/README.md)
+- [💽 Storage & Backup](storage-backup/README.md)
+- [🏛️ Archiving & Preservation](archiving-preservation/README.md)
+- [📛 Adblocking / Privacy](adblocking-privacy/README.md)
+- [📂 Miscellaneous](miscellaneous/README.md)
 
-## Supporting category
+## Organization rules
 
-- [💬 Communities](communities/README.md) — linked from Adult Sites, with dedicated pages for forums, boards, chans and chat sites.
+- **Adult Sites** is the GoatDex-specific destination directory.
+- **Search & Discovery** is for finding content, people, URLs, sources and indexes.
+- **Downloading** is for acquiring media/files.
+- **Tools** is for working with files, media, browsers, systems and automation.
+- **Mobile / Desktop** collect platform-specific resources and use ↪️ links back to canonical sections when appropriate.
+- **Media Management** is for organizing a collection after acquisition.
+- **Storage & Backup** is for keeping that collection safely.
+- **Archiving & Preservation** is for preserving content, sites and media for the long term.
+- **Adblocking / Privacy** covers blocking, privacy and related safety practices.
 
-## Organization rule
-
-**Adult Sites** = places where adult content lives or is discovered.
-
-**Media Tools** = utilities used to find, download, inspect, process, organize, automate, or manage media.
-
-**Hoarding & Archiving** = storage, backup, integrity, recovery, self-hosting, and long-term preservation.
-
-This separation keeps content destinations from getting mixed together with the tools used around them.
+Use 🐐 for the best-in-class resource inside its normal section. There is no separate GOATs category.
