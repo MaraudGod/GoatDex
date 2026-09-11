@@ -2,21 +2,27 @@
 
 [← GoatDex Home](../README.md)
 
-This directory is the GitHub-native GoatDex index.
+This directory is the canonical GitHub-native GoatDex index.
 
-## Categories
+## Main categories
 
 - [🐐 GOATs](../GOATS.md)
-- [🎬 Video](video/README.md)
-- [🖼️ Images](images/README.md)
-- [🌐 Websites](websites/README.md)
-- [💬 Communities](communities/README.md)
-- [🔎 Search & Discovery](search-discovery/README.md)
-- [📥 Downloading](downloading/README.md)
+- [🔞 Adult Sites](adult-sites/README.md)
+- [🧰 Media Tools](media-tools/README.md)
 - [🗄️ Hoarding & Archiving](hoarding-archiving/README.md)
-- [🧰 File & Media Utilities](file-media-utilities/README.md)
-- [⚙️ Automation](automation/README.md)
 - [🔒 Privacy & Safety](privacy-safety/README.md)
 - [📚 Guides](guides/README.md)
 
-Every category README is a table of contents for its focused subcategory pages.
+## Supporting category
+
+- [💬 Communities](communities/README.md) — linked from Adult Sites, with dedicated pages for forums, boards, chans and chat sites.
+
+## Organization rule
+
+**Adult Sites** = places where adult content lives or is discovered.
+
+**Media Tools** = utilities used to find, download, inspect, process, organize, automate, or manage media.
+
+**Hoarding & Archiving** = storage, backup, integrity, recovery, self-hosting, and long-term preservation.
+
+This separation keeps content destinations from getting mixed together with the tools used around them.
