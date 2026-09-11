@@ -2,53 +2,38 @@
 
 > **The Adult Internet, Indexed.**
 
-GoatDex is a GitHub-first knowledge base for finding adult-content destinations and the tools used to search, download, organize, process, preserve, and manage media.
+GoatDex is a GitHub-first index for finding adult-content destinations and the resources used to discover, download, manage, store, preserve, and work with media.
 
-**Start here:** choose a category below. The repository itself is the product — no website required.
+**Start here:** choose a major category below. Categories are organized by purpose, with section links used to avoid duplicating the same resource across multiple pages.
 
 ## 🧭 Master Index
 
 | Section | What lives here |
 | --- | --- |
-| [🐐 GOATs](GOATS.md) | Best-of-the-best picks across GoatDex |
-| [🔞 Adult Sites](index/adult-sites/README.md) | Tube/streaming, galleries, user-upload platforms, creator platforms, live/cam, communities, adult search/indexes, archives and mirrors |
-| [🧰 Media Tools](index/media-tools/README.md) | Video tools, image tools, downloading, search/discovery, organization, file utilities, browser tools and automation |
-| [🗄️ Hoarding & Archiving](index/hoarding-archiving/README.md) | Storage, backup, deduplication, cataloging, integrity, self-hosting, recovery and preservation |
-| [🔒 Privacy & Safety](index/privacy-safety/README.md) | Browsers, VPN/DNS, blocking, metadata privacy and account hygiene |
-| [📚 Guides](index/guides/README.md) | Starter pack and practical GoatDex workflows |
+| [📚 Beginners Guide](index/beginners-guide/README.md) | Start here, GoatDex basics, recommended setup, terminology and workflows |
+| [🔞 Adult Sites](index/adult-sites/README.md) | Video, images, user uploads, creator platforms, live/cam, adult indexes, archives and mirrors |
+| [🔎 Search & Discovery](index/search-discovery/README.md) | Search engines, reverse search, profiles, URLs, archives, indexes and discovery techniques |
+| [💾 Downloading](index/downloading/README.md) | Downloaders, download managers, browser/mobile workflows, batch downloading and troubleshooting |
+| [🔧 Tools](index/tools/README.md) | Internet, file, image, video, system and automation tools |
+| [📱 Mobile](index/mobile/README.md) | iOS and Android resources, apps, browsers, downloading, media tools and privacy |
+| [💻 Desktop](index/desktop/README.md) | macOS, Windows and Linux resources |
+| [💬 Communities](index/communities/README.md) | Forums, boards, chans, chat sites and discovery/technical communities |
+| [🗃️ Media Management](index/media-management/README.md) | Library managers, cataloging, metadata, tagging, organization and deduplication |
+| [💽 Storage & Backup](index/storage-backup/README.md) | Storage, NAS, cloud, syncing, backup, integrity, encryption and recovery |
+| [🏛️ Archiving & Preservation](index/archiving-preservation/README.md) | Web/media archiving, site capture, dead links, mirrors and long-term preservation |
+| [📛 Adblocking / Privacy](index/adblocking-privacy/README.md) | Adblocking, browsers, DNS, VPN/proxy, account privacy, encryption and platform privacy |
+| [📂 Miscellaneous](index/miscellaneous/README.md) | Multi-tool sites and useful resources that genuinely do not fit elsewhere |
 
-## 🔞 Adult Sites at a glance
+## 🏷️ Emoji Legend
 
-- [🎬 Tube & Streaming Sites](index/adult-sites/Tube-Streaming.md)
-- [🖼️ Gallery & Image Sites](index/adult-sites/Galleries-Images.md)
-- [📤 User Upload Platforms](index/adult-sites/User-Upload-Platforms.md)
-- [👤 Creator Platforms](index/adult-sites/Creator-Platforms.md)
-- [🎥 Live & Cam Sites](index/adult-sites/Live-Cam.md)
-- [💬 Communities](index/communities/README.md)
-- [🔎 Adult Search & Indexes](index/adult-sites/Search-Indexes.md)
-- [🗄️ Archives & Mirrors](index/adult-sites/Archives-Mirrors.md)
-
-## 🧰 Media Tools at a glance
-
-- [🎬 Video Tools](index/media-tools/Video-Tools.md)
-- [🖼️ Image Tools](index/media-tools/Image-Tools.md)
-- [📥 Downloading](index/media-tools/Downloading.md)
-- [🔎 Media Search & Discovery](index/media-tools/Search-Discovery.md)
-- [🧹 Organize & Manage](index/media-tools/Organize-Manage.md)
-- [🔧 File Utilities](index/media-tools/File-Utilities.md)
-- [🌐 Browser Tools](index/media-tools/Browser-Tools.md)
-- [⚙️ Automation](index/media-tools/Automation.md)
-
-## 🏷️ Legend
-
-- 🐐 **GOAT** — top pick / best overall
+- 🌐 **Third-Party Index** — another curated index or directory
+- ↪️ **Section Link** — points to a related GoatDex section instead of duplicating entries
 - ⭐ **Recommended** — especially useful or reliable
-- 🆓 **Free** — usable without payment
-- 💰 **Paid** — payment or premium features
-- 📱 **Mobile** — particularly useful on phones/tablets
-- 🖥️ **Desktop** — desktop-focused
-- 🌐 **Web** — browser-based
-- ⚠️ **Caution** — read the accompanying note
+- 🐐 **GOAT** — best-in-class / top pick for its section
+- 💰 **Paid / Premium** — requires payment or has important paid functionality
+- ⚠️ **Caution** — read the accompanying warning or limitation
+
+🐐 is a **tag, not a category**. GOATs stay in the section where they belong.
 
 ### Media / site tags
 
@@ -59,30 +44,37 @@ GoatDex is a GitHub-first knowledge base for finding adult-content destinations 
 Keep entries concise and useful:
 
 ```md
-- 🐐 **[Name](https://example.com)** — What it does and why it belongs here. `Web` `Free` `Mobile`
+- 🐐 **[Name](https://example.com)** — What it does and why it belongs here.
+- ⭐ **[Name](https://example.com)** — Especially useful or reliable.
+- 💰 **[Name](https://example.com)** — Useful resource with paid/premium functionality.
+- ⚠️ **[Name](https://example.com)** — Useful resource with an important caution explained here.
+- 🌐 **[Index Name](https://example.com)** — Third-party index or directory.
+- ↪️ [Related GoatDex Section](../path/README.md)
 ```
 
-For mixed-media sites, categorize by **what kind of platform it is** and use tags to show the media it supports instead of duplicating it everywhere.
+GoatDex is free-focused by default, so there is no Free tag. Mobile and desktop are navigation categories rather than per-entry tags.
 
-Example:
-
-```md
-- **[EroMe](https://www.erome.com)** — User-upload platform built around profiles and media albums. `Images` `Video` `Mixed Media` `User Uploads`
-```
+For mixed-media adult sites, categorize by **what kind of platform it is** and use media tags to describe what it contains instead of duplicating the site everywhere.
 
 ## 🧱 Structure
 
 ```text
 GoatDex/
 ├── README.md
-├── GOATS.md
 ├── index/
+│   ├── beginners-guide/
 │   ├── adult-sites/
-│   ├── media-tools/
+│   ├── search-discovery/
+│   ├── downloading/
+│   ├── tools/
+│   ├── mobile/
+│   ├── desktop/
 │   ├── communities/
-│   ├── hoarding-archiving/
-│   ├── privacy-safety/
-│   └── guides/
+│   ├── media-management/
+│   ├── storage-backup/
+│   ├── archiving-preservation/
+│   ├── adblocking-privacy/
+│   └── miscellaneous/
 └── docs/                 ← optional website renderer / legacy scaffold
 ```
 
