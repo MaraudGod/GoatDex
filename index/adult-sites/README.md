@@ -14,6 +14,7 @@ Adult-content destinations are organized by the kind of site they are. Search en
   - Humor
   - Taboo
   - Feet
+  - Cuckold
   - Pregnant
   - Vintage
   - Movies
