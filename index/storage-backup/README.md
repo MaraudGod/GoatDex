@@ -17,3 +17,7 @@ Resources for keeping a collection safely and recoverably.
 - Integrity / Checksums
 - Encryption
 - Recovery
+
+## Cloud Storage
+
+- [MEGA](https://mega.nz/)
