@@ -55,6 +55,7 @@ Use ↪️ links from Adult Sites, Communities, OSINT, Torrenting and other sect
 
 - [MediaShr](https://media-shr.net/)
 - [Lyzem](https://lyzem.com/)
+- [GroupDa Telegram Search](https://groupda.com/tgme)
 
 ## Creator / Model Search
 
@@ -66,3 +67,13 @@ Use ↪️ links from Adult Sites, Communities, OSINT, Torrenting and other sect
 
 - [StoPorn](https://stoporn.com/videos)
 - [XcXcO](https://xcxco.com/)
+
+## Adult Search / Indexes
+
+- [ThePornJack](https://thepornjack.com/)
+- [Lindy List](https://www.lindylist.org/)
+- [XXX.xxx](https://www.xxx.xxx/)
+- [WTF.PORN](https://wtf.porn/)
+- [ArchivX](http://www.archivx.to/)
+- [Porn Webmasters](https://pornwebmasters.com/)
+- [Semrush Adult Site Rankings](https://www.semrush.com/trending-websites/global/adult)
