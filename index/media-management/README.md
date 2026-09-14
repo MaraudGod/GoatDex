@@ -25,3 +25,4 @@ Resources for organizing and navigating a media collection after acquisition.
 ## Databases
 
 - [StashDB](https://stashdb.org/)
+- [StashDB Guidelines](https://guidelines.stashdb.org/docs/faq_getting-started/stashdb/accessing-stash-boxes)
