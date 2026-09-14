@@ -76,11 +76,24 @@ Curated adult forums useful for discovery, recommendations, discussion and troub
 - [Milovana](https://milovana.com/)
 - [Wasku](https://forum.wasku.com/)
 - [PornBB](https://www.pornbb.org/)
+- [SimpCity](https://simpcity.cr/)
 
 ## Specialty Forums
 
 - [Feet Paradise — Steam Community](https://steamcommunity.com/app/2973820)
 - [Girls in Public](https://www.girlsinpublic.com/)
+- [NobodyHome Cam Forum](https://nobodyhome.ws/index.php)
+- [Foot-Fetish.Club](https://foot-fetish.club/)
+- [High Arched Feet Forum](https://forum.higharchedfeet.net/)
+- [Cutefeet](https://cutefeet.de/)
+- [Great Feet](http://www.greatfeet.com/menu_all_pages.htm)
+- [DirtySoles](https://dirtysoles.1bb.ru/viewforum.php?id=1)
+- [Crazy4Feet](https://www.crazyforfeet.com/forum)
+- [Preggophilia](https://preggophilia.com/)
+- [Pregchan](https://pregchan.com/)
+- [NWorship](https://nworship.com/)
+- [BlacktoWhite](https://www.blacktowhite.net/)
+- [Ins-Dream](https://ins-dream.com/forum/index.php)
 
 ## Technical & Collector Forums
 
