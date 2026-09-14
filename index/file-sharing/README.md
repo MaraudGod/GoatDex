@@ -5,6 +5,13 @@
 ## Sections
 
 - 📦 **File Hosts**
+  - General File Hosts
+  - Video Hosts
+  - Image Hosts
+  - Temporary File Hosts
+  - Large File Hosts
+  - Premium File Hosts
+- 📦 **Multi-Host / Debrid**
 - 📂 **Directories**
 - ☁️ **Cloud**
 - 🔗 **Link Tools**
@@ -19,14 +26,31 @@
 
 ## 📦 File Hosts
 
+### General File Hosts
+
 - [PixelDrain](https://pixeldrain.com/)
 - [Turbo](https://turbo.cr/)
-- [JPG6](https://jpg6.su/)
 - [Bunkr](https://balbums.st/)
 - [BuzzHeavy](https://buzzheavier.com/)
 - [VikingFile](https://vikingfile.com/)
 - [MediaFire](https://www.mediafire.com/)
 - [Gofile](https://gofile.io/)
+- [Koofr](https://koofr.eu/)
+- [PutMega](https://putmega.com/)
+- [CyberDrop](https://cyberdrop.cr/)
+- [Bunkr](https://bunkr.si/)
+- [EMLOAD](https://www.emload.com/)
+- [KeepShare](https://keepshare.cc/)
+- [Filespayouts](https://filespayouts.com/)
+
+### Video Hosts
+
+- [vTube](https://vtbe.to/)
+- [Saint2](https://saint2.cr/)
+
+### Image Hosts
+
+- [JPG6](https://jpg6.su/)
 - [im9.eu](https://im9.eu/)
 - [ImgAdult](https://imgadult.com/)
 - [ImageTwist](https://imagetwist.com/)
@@ -39,27 +63,28 @@
 - [Imgur](https://imgur.com/)
 - [4put](http://4put.ru/)
 - [PiXhost](https://pixhost.to/)
-- [Koofr](https://koofr.eu/)
-- [PutMega](https://putmega.com/)
 - [Pimp&Host](https://pimpandhost.com/)
 - [ImgBB](https://imgbb.com/)
 - [ImageCloud](https://imgcloud.pw/)
-- [vTube](https://vtbe.to/)
-- [Saint2](https://saint2.cr/)
-- [CyberDrop](https://cyberdrop.cr/)
-- [Bunkr](https://bunkr.si/)
-- [EMLOAD](https://www.emload.com/)
-- [KeepShare](https://keepshare.cc/)
 - [Lensdump](https://lensdump.com/)
-- [Filespayouts](https://filespayouts.com/)
 
-## 🔗 Link Tools — Bypassers
+### Temporary File Hosts
+
+### Large File Hosts
+
+### Premium File Hosts
+
+## 📦 Multi-Host / Debrid
+
+## 🔗 Link Tools
+
+### Bypassers
 
 - [Universal Script Bypasser](https://scriptblox.com/script/universal-script-byp*er-196396)
 - [Zen Bypass](https://izen.lol/)
 - [bypass.city](https://adbypass.org/)
 
-## 🔗 Link Tools — Share Services
+### Paste / Share Services
 
 - [TG Links](http://get-img.com/alink/alink.php)
 - [Linkvertise](https://linkvertise.com/)
