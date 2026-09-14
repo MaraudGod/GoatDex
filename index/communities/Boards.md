@@ -4,14 +4,13 @@
 
 Boards and board-style communities organized for fast browsing and discovery.
 
-## 🐐 GOATs
-
-_Add top board picks here._
-
 ## General Boards
 
-_Add curated entries here._
-
-## Specialty Boards
-
-_Add curated entries here._
+- [Imageboards list](https://dollchan.net/)
+- [Archivo Hot](https://archivohot.com/)
+- [Show It Off](https://showitoff.org/)
+- [Anonib.al](https://anonib.al/)
+- [Anonib.pk](https://anonib.pk/)
+- [Anonibx](https://anonibx.com/)
+- [AnonImageBoards](https://anonimageboards.com/)
+- [Anonib2](https://anonib2.org/)
