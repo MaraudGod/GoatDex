@@ -12,5 +12,7 @@ Boards and board-style communities organized for fast browsing and discovery.
 - [Anonib.al](https://anonib.al/)
 - [Anonib.pk](https://anonib.pk/)
 - [Anonibx](https://anonibx.com/)
-- [AnonImageBoards](https://anonimageboards.com/)
+- [AnonImageBoards — TX](https://anonimageboards.com/tx/catalog.html)
 - [Anonib2](https://anonib2.org/)
+- [AnonMe — Catalog](https://boards.anonme.org/t/catalog.html)
+- [AnonImageBoards — Catalog](https://anonimageboards.com/t/catalog.html)
