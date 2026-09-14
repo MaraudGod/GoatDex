@@ -29,7 +29,9 @@ Adult-content destinations are organized by the kind of site they are. Search en
 
 **Related:** ↪️ [Search](../search/README.md) · ↪️ [Communities](../communities/README.md)
 
-## 🎯 Specialty — Feet
+## 🎯 Specialty
+
+### Feet
 
 - [HawksFeetlinks](https://hawksfeetlinks.com/)
 - [BeautifulBarefootGirls](https://www.beautifulbarefootgirls.com/)
@@ -52,7 +54,14 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [Silver Wolf](https://www.silverwolf-footmodeling.vip/)
 - [FeetZone](https://feet-zone.com/)
 
-## 🎯 Specialty — Pregnant
+### Cuckold
+
+- [CuckoldsPorn](https://www.cuckoldsporn.com/)
+- [Cuckolder](https://cuckolder.com/)
+- [Qosvideos](https://qosvideos.com/)
+- [CuckoldTubePlace](https://www.cuckoldplacetube.com/)
+
+### Pregnant
 
 - [Preggofans](https://www.preggofans.com/)
 - [PregnantPornVideos](https://www.pregnant-porn-videos.com/)
@@ -60,14 +69,7 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [Pregnant-HD](https://pregnant-hd.net/)
 - [PreggoHub](https://www.preggohub.com/)
 
-## 🎯 Specialty — Cuckold
-
-- [CuckoldsPorn](https://www.cuckoldsporn.com/)
-- [Cuckolder](https://cuckolder.com/)
-- [Qosvideos](https://qosvideos.com/)
-- [CuckoldTubePlace](https://www.cuckoldplacetube.com/)
-
-## 🎯 Specialty — Taboo
+### Taboo
 
 - [MyTabu](https://mytabu.net/)
 - [Cut Sceny](https://cut-sceny.ru/)
@@ -79,20 +81,22 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [FamilyCest](https://familyincest.tv/)
 - [Insext](https://insext.net/)
 
-## 🌍 International — Spanish
+## 🌍 International
+
+### Spanish
 
 - [Porninfiltrados](https://porninfiltrados.com/)
 - [Xpaja](https://www.xpaja.net/)
 - [ForoPorno](https://foroporno.com/)
 
-## 🌍 International — Russian
+### Russian
 
 - [Rus-XnXX](https://www.xnxx-rus.com/)
 - [Erogen](https://erogen.org/)
 - [Pejnya](http://pejnya1.nl/)
 - [Pornoslon](http://pornoslon.me/)
 
-## 🌍 International — Desi
+### Desi
 
 - [Mydesi](https://lolpol2.com/)
 - [XXXHindi](https://xxxhindi.co/)
@@ -100,11 +104,11 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [DropMMS](https://dropmms.com/)
 - [SearchVids](https://se.video/)
 
-## 🌍 International — French
+### French
 
 - [Amateur Français](https://amateurfrancais.fr/)
 
-## 🌍 International — Portugal
+### Portugal
 
 - [PornoReino](https://en.pornoreino.com/)
 
