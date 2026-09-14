@@ -21,6 +21,7 @@
 ## VPN / Proxy
 
 - [Private Internet Access](https://www.privateinternetaccess.com/)
+- [ExpressVPN](https://www.expressvpn.com/)
 
 ## Tracking Protection
 
