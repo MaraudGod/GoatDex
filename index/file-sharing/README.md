@@ -48,7 +48,19 @@
 - [Saint2](https://saint2.cr/)
 - [CyberDrop](https://cyberdrop.cr/)
 - [Bunkr](https://bunkr.si/)
+- [EMLOAD](https://www.emload.com/)
+- [KeepShare](https://keepshare.cc/)
+- [Lensdump](https://lensdump.com/)
+- [Filespayouts](https://filespayouts.com/)
 
-## ☁️ Cloud
+## 🔗 Link Tools — Bypassers
 
-- [MEGA](https://mega.nz/)
+- [Universal Script Bypasser](https://scriptblox.com/script/universal-script-byp*er-196396)
+- [Zen Bypass](https://izen.lol/)
+- [bypass.city](https://adbypass.org/)
+
+## 🔗 Link Tools — Share Services
+
+- [TG Links](http://get-img.com/alink/alink.php)
+- [Linkvertise](https://linkvertise.com/)
+- [Magic.ly](https://magic.ly/)
