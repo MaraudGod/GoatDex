@@ -4,14 +4,12 @@
 
 Chat-oriented communities and discussion spaces.
 
-## 🐐 GOATs
-
-_Add top picks here._
-
 ## Web Chat
 
-_Add curated entries here._
-
-## Group Chat Platforms
-
-_Add curated entries here._
+- [Omegla](https://www.omegla.chat/)
+- [TinyChat](https://tinychat.com/)
+- [Only2Chat](https://only2chat.com/)
+- [Shagle](https://shagle.com/)
+- [Dirtyroulette](https://dirtyroulette.com/)
+- [Joingy](https://joingy.com/)
+- [AnonCam](https://strangercam.com/)
