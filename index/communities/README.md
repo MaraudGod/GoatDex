@@ -24,6 +24,12 @@ Adult-focused communities and general communities with meaningful adult sections
 
 Search resources for these communities belong in [🔎 Search](../search/README.md); downloaders belong in [💾 Downloading](../downloading/README.md).
 
+## ✈️ Telegram
+
+- [Telegram Web](https://web.telegram.org/k)
+- [Fragment](https://fragment.com/convert)
+- [TelegramBotsList](https://danyspin97.github.io/TelegramBotsList)
+
 ## 📱 Other Networks
 
 - [Flickr](https://www.flickr.com/)
