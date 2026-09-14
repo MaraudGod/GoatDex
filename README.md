@@ -2,27 +2,35 @@
 
 > **The Adult Internet, Indexed.**
 
-GoatDex is a GitHub-first index for finding adult-content destinations and the resources used to discover, download, manage, store, preserve, and work with media.
+GoatDex is a GitHub-first index for adult-content destinations, communities, search, file sharing, downloading, media workflows, preservation, privacy, system-specific resources, and help for people who want to reduce or quit porn use.
 
-**Start here:** choose a major category below. Categories are organized by purpose, with section links used to avoid duplicating the same resource across multiple pages.
+**Start here:** choose a major category below. Each resource should have one canonical home; related sections use ↪️ links instead of duplicating the same entry everywhere.
 
 ## 🧭 Master Index
 
 | Section | What lives here |
 | --- | --- |
-| [📚 Beginners Guide](index/beginners-guide/README.md) | Start here, GoatDex basics, recommended setup, terminology and workflows |
-| [🔞 Adult Sites](index/adult-sites/README.md) | Video, images, user uploads, creator platforms, live/cam, adult indexes, archives and mirrors |
-| [🔎 Search & Discovery](index/search-discovery/README.md) | Search engines, reverse search, profiles, URLs, archives, indexes and discovery techniques |
-| [💾 Downloading](index/downloading/README.md) | Downloaders, download managers, browser/mobile workflows, batch downloading and troubleshooting |
-| [🔧 Tools](index/tools/README.md) | Internet, file, image, video, system and automation tools |
-| [📱 Mobile](index/mobile/README.md) | iOS and Android resources, apps, browsers, downloading, media tools and privacy |
-| [💻 Desktop](index/desktop/README.md) | macOS, Windows and Linux resources |
-| [💬 Communities](index/communities/README.md) | Forums, boards, chans, chat sites and discovery/technical communities |
-| [🗃️ Media Management](index/media-management/README.md) | Library managers, cataloging, metadata, tagging, organization and deduplication |
-| [💽 Storage & Backup](index/storage-backup/README.md) | Storage, NAS, cloud, syncing, backup, integrity, encryption and recovery |
-| [🏛️ Archiving & Preservation](index/archiving-preservation/README.md) | Web/media archiving, site capture, dead links, mirrors and long-term preservation |
-| [📛 Adblocking / Privacy](index/adblocking-privacy/README.md) | Adblocking, browsers, DNS, VPN/proxy, account privacy, encryption and platform privacy |
-| [📂 Miscellaneous](index/miscellaneous/README.md) | Multi-tool sites and useful resources that genuinely do not fit elsewhere |
+| [📚 Start Here](index/start-here/README.md) | How GoatDex works, legend, setup, basics and FAQ |
+| [🔞 Adult Sites](index/adult-sites/README.md) | Streaming, galleries, uploads, live/cam, specialty, international, publications, creator and premium sites |
+| [💬 Communities](index/communities/README.md) | Forums, boards, chans, chats, social media, X, Reddit, Telegram and Discord |
+| [🔎 Search](index/search/README.md) | Adult, file, image, reverse image, video, social, creator, profile, domain and archive search |
+| [☁️ File Sharing](index/file-sharing/README.md) | File hosts, directories, cloud, shared drives, link sharing and host utilities |
+| [💾 Downloading](index/downloading/README.md) | Universal, video, image, social, browser, manager and batch downloading |
+| [🌀 Torrenting](index/torrenting/README.md) | Adult torrent sites, aggregators, clients, remote torrenting, utilities and guides |
+| [🌐 Browser](index/browser/README.md) | Browsers, extensions, userscripts, managers, Safari extensions, bookmarklets and automation |
+| [🤖 AI](index/ai/README.md) | AI resources for image, video, audio, enhancement, transcription, tagging and research |
+| [🕵️ OSINT](index/osint/README.md) | People, account, domain, social, metadata, geolocation and evidence research |
+| [🗃️ Files](index/files/README.md) | File managers, rename, dedupe, conversion, compression, hashing, identification and recovery |
+| [🎞️ Media](index/media/README.md) | Image, video and audio utilities |
+| [⚙️ Automation](index/automation/README.md) | Shortcuts, AppleScript, shell, Python, ffmpeg, yt-dlp and batch workflows |
+| [💻 System & CLI](index/system-cli/README.md) | System utilities, terminal, networking, developer and self-hosted resources |
+| [🗂️ Media Management](index/media-management/README.md) | Libraries, cataloging, metadata, tagging, organization, dedupe, databases and media servers |
+| [💽 Storage & Backup](index/storage-backup/README.md) | Drives, NAS, cloud, sync, backup, integrity, encryption and recovery |
+| [🏛️ Archiving & Preservation](index/archiving-preservation/README.md) | Web/media archiving, capture, link recovery, mirrors and long-term preservation |
+| [🛡️ Privacy & Security](index/privacy-security/README.md) | Adblocking, tracking protection, browsers, DNS, VPN/proxy, account security and encryption |
+| [💻 Systems](index/systems/README.md) | iOS, Android, macOS, Windows and Linux specific resources and cross-links |
+| [📂 Miscellaneous](index/miscellaneous/README.md) | Multi-tool sites, references and resources that genuinely fit nowhere else |
+| [🚪 Quit Porn](index/quit-porn/README.md) | Blockers, apps, education, support, device setup and professional-help resources |
 
 ## 🏷️ Emoji Legend
 
@@ -33,15 +41,9 @@ GoatDex is a GitHub-first index for finding adult-content destinations and the r
 - 💰 **Paid / Premium** — requires payment or has important paid functionality
 - ⚠️ **Caution** — read the accompanying warning or limitation
 
-🐐 is a **tag, not a category**. GOATs stay in the section where they belong.
-
-### Media / site tags
-
-`Video` · `Images` · `Mixed Media` · `User Uploads` · `Creator` · `Live` · `Community`
+🐐 is a **tag, not a category**. GoatDex is free-focused by default, so there is no Free tag.
 
 ## ➕ Adding an entry
-
-Keep entries concise and useful:
 
 ```md
 - 🐐 **[Name](https://example.com)** — What it does and why it belongs here.
@@ -52,31 +54,11 @@ Keep entries concise and useful:
 - ↪️ [Related GoatDex Section](../path/README.md)
 ```
 
-GoatDex is free-focused by default, so there is no Free tag. Mobile and desktop are navigation categories rather than per-entry tags.
+## 🧱 Core rule
 
-For mixed-media adult sites, categorize by **what kind of platform it is** and use media tags to describe what it contains instead of duplicating the site everywhere.
+**One resource → one canonical home → ↪️ section links everywhere else it is relevant.**
 
-## 🧱 Structure
-
-```text
-GoatDex/
-├── README.md
-├── index/
-│   ├── beginners-guide/
-│   ├── adult-sites/
-│   ├── search-discovery/
-│   ├── downloading/
-│   ├── tools/
-│   ├── mobile/
-│   ├── desktop/
-│   ├── communities/
-│   ├── media-management/
-│   ├── storage-backup/
-│   ├── archiving-preservation/
-│   ├── adblocking-privacy/
-│   └── miscellaneous/
-└── docs/                 ← optional website renderer / legacy scaffold
-```
+This prevents GoatDex from becoming a duplicated bookmark tree and lets system pages such as iOS or macOS act as curated views into the rest of the index.
 
 ## Important
 
