@@ -14,6 +14,8 @@ Video-first adult sites and streaming destinations.
 
 ## Resources
 
+- [soski.tv](https://soski.tv/)
+- [DesiPapa](https://desipapa.watch/)
 - [GLatinas](https://g-latinas.com/)
 - [Srculo](https://srculo.com/)
 - [DonPaja](https://donpaja.com/)
@@ -22,10 +24,8 @@ Video-first adult sites and streaming destinations.
 - [Terk.Nl](https://www.terk.nl/)
 - [PornMoviesHere](https://pornmovieshere.com/)
 - [Bitchute](https://www.bitchute.com/)
-- [ThisIsPayback](http://www.thisispayback.com/)
 - [EMPFlix](https://www.empflix.com/)
 - [CumComing](https://www.cumcoming.com/)
-- [soski.tv](https://soski.tv/)
 - [CnnAmador](https://en.cnnamador.com/)
 - [Hoastie](https://hoastie.com/)
 - [AddYourSex](https://www.addyoursex.com/)
@@ -35,7 +35,7 @@ Video-first adult sites and streaming destinations.
 - [CrazyShit](https://crazyshit.com/)
 - [VideoSection](https://videosection.com/)
 - [Shooshtime](https://shooshtime.com/)
-- [LeakVids](https://leakvids.com/)
+- [LeaksVids](https://leakvids.com/)
 - [Host4See](https://www.host4see.com/)
 - [LuxureTV](https://en.luxuretv.com/)
 - [ThisVid](https://thisvid.com/)
@@ -64,6 +64,7 @@ Video-first adult sites and streaming destinations.
 - [Txxx](https://txxx.me/)
 - [xHamster](https://xhamster.com/)
 - [XNXX](https://www.xnxx.com/)
+- [Turkzzers](https://turkzzers.net/)
 - [PacksXXX](https://packsxxx.net/)
 - [CnnAmador FR](https://fr.cnnamador.com/)
 - [SexoGuarro](https://sexoguarro.com/)
@@ -85,4 +86,3 @@ Video-first adult sites and streaming destinations.
 - [PussySpace](https://www.pussyspace.net/)
 - [OG Fap](https://ogfap.com/)
 - [X Free](https://www.xfree.com/)
-- [DesiPapa](https://desipapa.watch/)
