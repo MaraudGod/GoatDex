@@ -1,22 +1,17 @@
 # 🏛️ Archiving & Preservation
 
-[← GoatDex Home](../../README.md)
+[← Master Index](../../README.md)
 
-Resources for responsible long-term preservation and recovery of media and web resources.
+Resources for preserving sites, links and media for the long term.
 
 ## Sections
 
-- **Web Archiving**
-- **Media Archiving**
-- **Site Capture**
-- **Link Recovery**
-- **Mirrors**
-- **Archive Search**
-- **Preservation Formats**
-- **Recovery**
-- **Preservation Guides**
-
-## Related sections
-
-- ↪️ [Search & Discovery](../search-discovery/README.md)
-- ↪️ [Storage & Backup](../storage-backup/README.md)
+- Web Archiving
+- Media Archiving
+- Site Capture
+- Link Recovery
+- Mirrors
+- Archive Search
+- Preservation Formats
+- Recovery
+- Preservation Guides

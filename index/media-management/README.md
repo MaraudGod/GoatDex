@@ -1,22 +1,17 @@
-# 🗃️ Media Management
+# 🗂️ Media Management
 
-[← GoatDex Home](../../README.md)
+[← Master Index](../../README.md)
 
-For organizing and maintaining a collection after acquisition.
+Resources for organizing and navigating a media collection after acquisition.
 
 ## Sections
 
-- **Library Managers**
-- **Cataloging**
-- **Metadata & Tagging**
-- **Naming & Folder Organization**
-- **Deduplication**
-- **Collection Search**
-- **Database Tools**
-- **Media Servers**
-
-## Related sections
-
-- ↪️ [File Tools](../tools/File-Tools.md)
-- ↪️ [Storage & Backup](../storage-backup/README.md)
-- ↪️ [Archiving & Preservation](../archiving-preservation/README.md)
+- Library Managers
+- Cataloging
+- Metadata & Tagging
+- Naming & Folder Structure
+- Deduplication
+- Collection Search
+- Thumbnail / Preview Management
+- Databases
+- Media Servers

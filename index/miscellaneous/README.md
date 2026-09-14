@@ -1,12 +1,10 @@
 # 📂 Miscellaneous
 
-[← GoatDex Home](../../README.md)
+[← Master Index](../../README.md)
 
-Keep this section intentionally small. It is for useful resources that genuinely do not fit a more specific GoatDex category.
+Keep this section intentionally small. If it grows too large, the resource probably deserves a better canonical home.
 
-## Sections
-
-- **Multi-Tool Sites**
-- **Useful Sites**
-- **Unclassified Resources**
-- **Other**
+- Multi-Tool Sites
+- Useful Sites
+- Reference Resources
+- Unclassified Resources

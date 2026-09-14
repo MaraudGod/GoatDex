@@ -1,25 +1,19 @@
 # 💽 Storage & Backup
 
-[← GoatDex Home](../../README.md)
+[← Master Index](../../README.md)
 
-For keeping collections safe, available and recoverable.
+Resources for keeping a collection safely and recoverably.
 
 ## Sections
 
-- **Storage Guides**
-- **External Storage**
-- **NAS**
-- **Cloud Storage**
-- **Self-Hosted Storage**
-- **Syncing**
-- **Backup Software**
-- **Backup Strategies**
-- **Checksums & Integrity**
-- **Encryption**
-- **Recovery**
-
-## Related sections
-
-- ↪️ [Media Management](../media-management/README.md)
-- ↪️ [System Tools](../tools/System-Tools.md)
-- ↪️ [Archiving & Preservation](../archiving-preservation/README.md)
+- Storage Guides
+- External Drives
+- NAS
+- Cloud Storage
+- Self-Hosted Storage
+- Sync
+- Backup Software
+- Backup Strategies
+- Integrity / Checksums
+- Encryption
+- Recovery
