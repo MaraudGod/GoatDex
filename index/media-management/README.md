@@ -15,3 +15,13 @@ Resources for organizing and navigating a media collection after acquisition.
 - Thumbnail / Preview Management
 - Databases
 - Media Servers
+
+## Library Managers
+
+- [Piwigo](https://piwigo.org/)
+- [PhotoPrism](https://www.photoprism.app/)
+- [MyVidster](https://www.myvidster.com/)
+
+## Databases
+
+- [StashDB](https://stashdb.org/)
