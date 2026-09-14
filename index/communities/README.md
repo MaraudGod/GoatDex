@@ -23,3 +23,10 @@ Adult-focused communities and general communities with meaningful adult sections
   - Specialty Communities
 
 Search resources for these communities belong in [🔎 Search](../search/README.md); downloaders belong in [💾 Downloading](../downloading/README.md).
+
+## 📱 Other Networks
+
+- [Flickr](https://www.flickr.com/)
+- [Tumblr](https://www.tumblr.com/)
+- [DeviantArt](https://www.deviantart.com/)
+- [9GAG](https://9gag.com/)
