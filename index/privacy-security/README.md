@@ -21,7 +21,6 @@
 ## VPN / Proxy
 
 - [Private Internet Access](https://www.privateinternetaccess.com/)
-- [ExpressVPN](https://www.expressvpn.com/)
 
 ## Tracking Protection
 
@@ -31,5 +30,3 @@
 
 - [Just Delete Me](https://justdeleteme.xyz/)
 - [OnlineSIM](https://onlinesim.io/)
-- [JuicySMS](https://juicysms.com/)
-- [TemporaryMails](https://temporarymails.com/)
