@@ -23,10 +23,7 @@ Adult-content destinations are organized by the kind of site they are. Search en
   - Erotic Lit
   - Cosplay
 - 🌍 **International**
-  - Country-specific sections as the collection grows
 - 📰 **Publications**
-  - Adult News
-  - Adult Blogs
 - 👤 **Creator Platforms**
 - 💎 **Premium Sites**
 
@@ -36,12 +33,6 @@ Adult-content destinations are organized by the kind of site they are. Search en
 
 - [HawksFeetlinks](https://hawksfeetlinks.com/)
 - [BeautifulBarefootGirls](https://www.beautifulbarefootgirls.com/)
-- [Foot-Fetish.Club](https://foot-fetish.club/)
-- [HAF Forum](https://forum.higharchedfeet.net/)
-- [Cutefeet](https://cutefeet.de/)
-- [Great Feet](http://www.greatfeet.com/)
-- [DirtySoles](https://dirtysoles.1bb.ru/)
-- [Crazy4Feet](https://www.crazyforfeet.com/)
 - [FootAdore](https://footadore.com/)
 - [FootPornX](https://footpornx.com/)
 - [FootJobHD](https://footjob-hd.net/)
@@ -63,8 +54,6 @@ Adult-content destinations are organized by the kind of site they are. Search en
 
 ## 🎯 Specialty — Pregnant
 
-- [Preggophilia](https://preggophilia.com/)
-- [Pregchan](https://pregchan.com/)
 - [Preggofans](https://www.preggofans.com/)
 - [PregnantPornVideos](https://www.pregnant-porn-videos.com/)
 - [PreggosSex](https://preggossex.com/)
@@ -73,8 +62,6 @@ Adult-content destinations are organized by the kind of site they are. Search en
 
 ## 🎯 Specialty — Cuckold
 
-- [NWorship](https://nworship.com/)
-- [BlacktoWhite](https://www.blacktowhite.net/)
 - [CuckoldsPorn](https://www.cuckoldsporn.com/)
 - [Cuckolder](https://cuckolder.com/)
 - [Qosvideos](https://qosvideos.com/)
@@ -90,28 +77,43 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [LustTaboo](https://lusttaboo.com/)
 - [TabooTube.to](https://tabootube.to/)
 - [FamilyCest](https://familyincest.tv/)
-- [Ins-Dream](https://ins-dream.com/)
 - [Insext](https://insext.net/)
 
-## 🌍 International
+## 🌍 International — Spanish
 
 - [Porninfiltrados](https://porninfiltrados.com/)
 - [Xpaja](https://www.xpaja.net/)
 - [ForoPorno](https://foroporno.com/)
+
+## 🌍 International — Russian
+
 - [Rus-XnXX](https://www.xnxx-rus.com/)
 - [Erogen](https://erogen.org/)
 - [Pejnya](http://pejnya1.nl/)
 - [Pornoslon](http://pornoslon.me/)
+
+## 🌍 International — Desi
+
 - [Mydesi](https://lolpol2.com/)
 - [XXXHindi](https://xxxhindi.co/)
 - [WonPorn](https://wonporn.com/)
 - [DropMMS](https://dropmms.com/)
 - [SearchVids](https://se.video/)
+
+## 🌍 International — French
+
 - [Amateur Français](https://amateurfrancais.fr/)
+
+## 🌍 International — Portugal
+
 - [PornoReino](https://en.pornoreino.com/)
 
 ## 📰 Publications
 
+- [AmateurCrush](https://www.amateurscrush.com/)
+- [WeHatePorn](https://www.wehateporn.com/)
+- [NaughtyBlog](https://www.naughtyblog.org/)
+- [WtfPeople](https://www.wtfpeople.com/)
 - [AdultVortex](https://adultvortex.com/)
 - [XBIZ](https://www.xbiz.com/)
 
@@ -123,3 +125,10 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - [MyDirtyHobby](https://www.mydirtyhobby.com/)
 - [APClips](https://apclips.com/)
 - [NVG](https://vip.netvideogirls.com/)
+
+## Other Adult Destinations
+
+- [VicePleasure](https://vicepleasure.net/)
+- [The Hun](https://thehun.net/)
+- [OmegleDLs](https://omeglevideos.net/)
+- [PacksMega](https://v1.packsmega.info/)
