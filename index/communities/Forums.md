@@ -4,22 +4,87 @@
 
 Curated adult forums useful for discovery, recommendations, discussion and troubleshooting.
 
-## 🐐 GOATs
-
-_Add top forum picks here._
-
 ## General Forums
 
-_Add curated entries here._
+- [ThotBB](https://thotbb.al/)
+- [Thotstash Forum](https://thotstash.net/)
+- [ForoTrolls](https://forotrolls.com/)
+- [XXX Fetish Forum](https://www.xxxfetishforum.com/)
+- [TeddyGirls](https://teddygirls.al/)
+- [Doolls](http://www.doolls.org/)
+- [OnlyHot](https://forum.onlyhot.net/)
+- [LEAKIMEDIA](https://leakimedia.com/)
+- [MMS LEAK](https://mmsleak.com/)
+- [18Kit](https://18kit.com/)
+- [Rabid-rabbit](https://rabid-rabbit.club/)
+- [BiteTheAss](https://bitetheass.com/)
+- [TheJavaSea](https://thejavasea.me/)
+- [XXY.SU](https://xxy.su/)
+- [Glam0ur](https://glam0ur.net/)
+- [The Goat Matrix](https://goatmatrix.net/)
+- [GeneralPorn](https://generalporn.org/)
+- [Matts Models Forum](https://forum.mattsmodels.com/)
+- [XXXFiles](https://xxx-files.org/)
+- [FetishLover](https://fetish-lover.net/)
+- [Craxpro](https://craxpro.to/)
+- [PicSets](http://www.picsets.org/)
+- [Realbooru](https://realbooru.com/)
+- [The Forenger](http://the.forenger.com/)
+- [OnlySimps](https://onlysimps.lol/)
+- [GoonChan](https://goonchan.org/)
+- [SheGotLeaks](https://shegotleaks.net/)
+- [Sexy e-Girls Forum](https://sexyegirls.net/)
+- [XXX Sharing](https://xxx-sharing.net/)
+- [FapFolder](https://fapfolder.club/)
+- [noods.tv](https://noods.tv/)
+- [YesLeaks](https://yesleaks.com/)
+- [LeakForum](https://leakforum.io/)
+- [CelebForum](https://celebforum.to/)
+- [Thotstash](https://thotstash.com/)
+- [xBunker Forums](https://xbunker.cc/)
+- [Famous Internet Girls](https://fig.to/)
+- [SorryMother Forum](https://forum.sorrymother.to/)
+- [SexyForums](https://sexyforums.com/)
+- [Social Media Girls](https://forums.socialmediagirls.com/)
+- [LeakedBB](https://leakedbb.com/)
+- [ViperGirls](https://vipergirls.to/)
+- [BugFun](https://bugfun.top/)
+- [CuckoldFart](https://cuckoldfart.com/)
+- [PornoDump](https://forum.pornodump.net/)
+- [NylonsPantyhose Forum](https://nylons-pantyhose.com/)
+- [PornoLab](https://pornolab.cc/)
+- [Peru Forums](https://www.forosperu.net/)
+- [Vintage Erotica Forums](http://vintage-erotica-forum.com/)
+- [NobodyHome](https://nobodyhome.ws/)
+- [RawPorn](https://rawporn.org/)
+- [SAFF](https://sexandfunforum.info/)
+- [AntiqForum](https://new.antiq-forum.com/)
+- [Hotness Rater Forums](https://hotnessrater.com/)
+- [FamousBoard](https://www.famousboard.com/)
+- [Forumophilia](https://www.forumophilia.com/)
+- [FETSM](https://fetsm.org/)
+- [CandidGirls Forum](https://forum.candidgirls.io/)
+- [Amateur Voyeur Forum](https://www.amateurvoyeurforum.com/)
+- [Looksmax](https://looksmax.org/)
+- [Kiwi Farms](https://kiwifarms.st/)
+- [DirtyUsernames](https://dirtyusernames.com/)
+- [SpaceFucker](https://www.spacefucker.com/)
+- [OneClickChicks](https://forum.oneclickchicks.com/)
+- [TopBoard](http://www.topboard.org/)
+- [PornCoven](https://porncoven.com/)
+- [WhatBoysWant](https://whatboyswant.com/)
+- [Milovana](https://milovana.com/)
+- [Wasku](https://forum.wasku.com/)
+- [PornBB](https://www.pornbb.org/)
 
 ## Specialty Forums
 
-_Add curated entries here._
+- [Feet Paradise — Steam Community](https://steamcommunity.com/app/2973820)
+- [Girls in Public](https://www.girlsinpublic.com/)
 
 ## Technical & Collector Forums
 
-_Add curated entries here._
-
-### Entry format
-
-`- ⭐ **[Name](https://example.com)** — Why it is useful. \`Web\` \`Free\``
+- [Sharing-Devils](https://forum.sharing-devils.to/)
+- [FileForums](https://fileforums.com/)
+- [Cracked.sh](https://cracked.sh/)
+- [NullForums](https://nullforums.net/)
