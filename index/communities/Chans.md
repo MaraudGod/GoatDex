@@ -20,6 +20,8 @@ Imageboards and chan-style communities useful for discovery and discussion.
 - [M2ch](https://m2ch.hk/)
 - [4chan](https://boards.4chan.org/)
 - [Slutsboard](https://sltb.live/)
-- [Hispasexy](https://www.hispasexy.org/)
+- [Hispasexy — Mobile](https://www.hispasexy.org/movil)
+- [Hispasexy — US Catalog](https://www.hispasexy.org/us/catalog.html)
+- [Sexychan](https://www.sexychan.org/)
 
 > ⚠️ Community-generated spaces vary heavily in moderation and reliability. Add context to entries where useful.
