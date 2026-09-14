@@ -10,3 +10,7 @@
 - Remote Torrenting
 - Utilities
 - Guides
+
+## Search / Aggregators
+
+- [Magnet Search](https://magnet-search.top/)
