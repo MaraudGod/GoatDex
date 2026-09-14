@@ -10,3 +10,11 @@
 - Developer Utilities
 - GitHub Utilities
 - Self-Hosted Utilities
+
+## Terminal Utilities
+
+- [Ghostty](https://ghostty.org/)
+
+## Networking
+
+- [Tailscale](https://tailscale.com/)
