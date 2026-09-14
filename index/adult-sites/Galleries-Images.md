@@ -14,6 +14,7 @@ Image-first adult galleries, collections, imageboards, and photo-focused destina
 
 ## Resources
 
+- [V2PH](https://www.v2ph.ru/)
 - [Girl Fuck Galleries](https://girlfuckgalleries.com/)
 - [PicMir](https://picmir4.com/)
 - [zNSFW](https://znsfw.com/)
@@ -33,10 +34,6 @@ Image-first adult galleries, collections, imageboards, and photo-focused destina
 - [AmateurAlbum](https://www.amateuralbum.net/)
 - [BarePass](https://www.barepass.com/)
 - [EroBoom](https://www.eroboom.org/)
-- [Flickr](https://www.flickr.com/)
-- [Tumblr](https://www.tumblr.com/)
-- [DeviantArt](https://www.deviantart.com/)
-- [9GAG](https://9gag.com/)
 - [XBlog](https://xblog.tv/)
 - [PhotoLoading](https://photoloading.com/)
 - [ImageFap](https://www.imagefap.com/)
