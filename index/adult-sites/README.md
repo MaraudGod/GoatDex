@@ -11,14 +11,15 @@ Adult-content destinations are organized by the kind of site they are. Search en
 - 📤 **User Uploads**
 - 🔴 **Live & Cam**
 - 🎯 **Specialty**
+  - Humor
+  - Taboo
+  - Feet
+  - Pregnant
   - Vintage
+  - Movies
   - VR / 3D
   - Animated
-  - Foot Fetish
-  - Taboo
-  - Pregnant
   - Erotic Lit
-  - Humor
   - Cosplay
 - 🌍 **International**
   - Country-specific sections as the collection grows
