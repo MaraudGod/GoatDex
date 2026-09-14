@@ -40,6 +40,10 @@ This directory is the canonical GitHub-native GoatDex index. The structure is pu
 - **Systems** is a system-specific view for iOS, Android, macOS, Windows and Linux, using ↪️ links back to canonical sections where appropriate.
 - **Quit Porn** is a dedicated wellbeing section for people who want to reduce or stop porn use.
 
+## Formatting convention
+
+Use a clean FMHY-style heading hierarchy throughout GoatDex: establish the parent section once, then list its child categories as lower-level headings. Do not repeat the parent in every child heading (for example, use `## 🎯 Specialty` followed by `### Feet`, not `## 🎯 Specialty — Feet`).
+
 ## Canonical-home rule
 
 **One resource → one canonical home → ↪️ section links everywhere else it is relevant.**
