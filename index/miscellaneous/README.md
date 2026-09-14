@@ -38,3 +38,4 @@ Keep this section intentionally small. If it grows too large, the resource proba
 - [FontsGen](https://fontsgen.com/)
 - [LogosArchive](https://logosarchive.com/logos)
 - [StackEdit](https://stackedit.io/)
+- [RUTUBE](https://rutube.ru/)
